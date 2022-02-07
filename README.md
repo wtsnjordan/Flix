@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 /Users/jordan/Desktop/Simulator Screen Recording - iPhone 11 - 2022-02-01 at 09.28.49.gif
